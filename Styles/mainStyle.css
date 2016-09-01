@@ -243,7 +243,7 @@ p a:hover{
       }
 
       #pp{
-        top: -52px;
+        top: -15px;
         position: relative;
         border-radius: 30px;
         -moz-border-radius: 30px;
@@ -282,6 +282,7 @@ p a:hover{
           position:relative;
           box-shadow: none;
           background: none;
+	  top:-15px;
       }
 
       #navigation > ul > li {

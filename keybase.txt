@@ -1,0 +1,52 @@
+https://keybase.io/tomhaughton
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tomhaughton.com
+  * I am tomhaughton (https://keybase.io/tomhaughton) on keybase.
+  * I have a public key ASDHhyg0T2eXNxx0qLMVG4GM9Vp_2NX-HS8Sn81fmUALCwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120c78728344f6797371c74a8b3151b818cf55a7fd8d5fe1d2f129fcd5f99400b0b0a",
+            "host": "keybase.io",
+            "kid": "0120c78728344f6797371c74a8b3151b818cf55a7fd8d5fe1d2f129fcd5f99400b0b0a",
+            "uid": "6b802cc398fca162337fdbfdb3a40419",
+            "username": "tomhaughton"
+        },
+        "service": {
+            "hostname": "tomhaughton.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1474058208,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1474058157,
+        "hash": "09b3a5d125fdea896151f3a9cdab89faa7cf0dd9ecb01660c583200e9ba82c8f62c3294e6ea1fc716e322fec34da0b7ec7d00b2fb8f4eb712ff342bb400e0d23",
+        "seqno": 640027
+    },
+    "prev": "bcec20dd7ada2a9aa1c434b727d365d86872b0b519ba92704026ba2073e3ca34",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgx4coNE9nlzccdKizFRuBjPVaf9jV/h0vEp/NX5lACwsKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzc4NzI4MzQ0ZjY3OTczNzFjNzRhOGIzMTUxYjgxOGNmNTVhN2ZkOGQ1ZmUxZDJmMTI5ZmNkNWY5OTQwMGIwYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzc4NzI4MzQ0ZjY3OTczNzFjNzRhOGIzMTUxYjgxOGNmNTVhN2ZkOGQ1ZmUxZDJmMTI5ZmNkNWY5OTQwMGIwYjBhIiwidWlkIjoiNmI4MDJjYzM5OGZjYTE2MjMzN2ZkYmZkYjNhNDA0MTkiLCJ1c2VybmFtZSI6InRvbWhhdWdodG9uIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ0b21oYXVnaHRvbi5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDc0MDU4MjA4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzQwNTgxNTcsImhhc2giOiIwOWIzYTVkMTI1ZmRlYTg5NjE1MWYzYTljZGFiODlmYWE3Y2YwZGQ5ZWNiMDE2NjBjNTgzMjAwZTliYTgyYzhmNjJjMzI5NGU2ZWExZmM3MTZlMzIyZmVjMzRkYTBiN2VjN2QwMGIyZmI4ZjRlYjcxMmZmMzQyYmI0MDBlMGQyMyIsInNlcW5vIjo2NDAwMjd9LCJwcmV2IjoiYmNlYzIwZGQ3YWRhMmE5YWExYzQzNGI3MjdkMzY1ZDg2ODcyYjBiNTE5YmE5MjcwNDAyNmJhMjA3M2UzY2EzNCIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBT8XzfG9iAlcDWw87HxE0q5viPEsB3Mk/5d1sK14wJpLBn1Yf42yfbOZoXwYkLwsW0NjEAHbkWYDZ9KqgoF08IqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg54Hm2XPKP1dWv+0JmCrpWVSi7aWGbaa3J/Due/Qc7eGjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tomhaughton
+
